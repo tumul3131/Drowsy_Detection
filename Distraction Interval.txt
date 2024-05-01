@@ -1,0 +1,10 @@
+Date: 2024-02-21 04:04:32.873189 ,Interval: 1.13, Type:Normal
+Date: 2024-02-21 04:04:35.658652 ,Interval: 2.16 ,Type:Drowsy
+Date: 2024-02-21 04:04:35.658652 ,Interval: 2.785, Type: YawningDate: 2024-02-21 04:04:37.119892 ,Interval: 1.18, Type:Normal
+Date: 2024-02-21 04:04:40.782766 ,Interval: 3.663 ,Type:Drowsy
+Date: 2024-02-21 04:04:49.167104, Interval: 7.209,Type: Eyes not on road
+Date: 2024-02-21 10:33:48.719440 ,Interval: 1.599, Type:Normal
+Date: 2024-02-21 10:33:50.670278 ,Interval: 1.584, Type:Normal
+Date: 2024-02-21 10:33:52.759743 ,Interval: 1.154, Type:Normal
+Date: 2024-02-21 10:33:55.313126 ,Interval: 2.553, Type: YawningDate: 2024-02-21 10:57:12.701791 ,Interval: 2.348, Type:Normal
+Date: 2024-02-21 10:57:15.527359 ,Interval: 2.826, Type: YawningDate: 2024-02-21 11:47:01.158628, Interval: 5.316,Type: Eyes not on road

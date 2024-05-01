@@ -1,0 +1,2 @@
+Date: 2024-02-21 11:41:45.710396 ,Interval: 1.026, Type: YawningDate: 2024-02-21 11:41:55.070023 ,Interval: 2.551, Type: YawningDate: 2024-02-21 11:47:05.614536 ,Interval: 2.586, Type: Yawning
+Date: 2024-05-01 09:55:14.402068 ,Interval: 2.931, Type: Yawning

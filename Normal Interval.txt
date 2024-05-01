@@ -1,0 +1,11 @@
+Date: 2024-02-21 11:42:03.110115 ,Interval: 6.968, Type:Normal
+Date: 2024-02-21 11:47:01.716307 ,Interval: 8.581, Type:Normal
+Date: 2024-02-21 11:47:03.028517 ,Interval: 1.224, Type:Normal
+Date: 2024-05-01 09:55:10.996669 ,Interval: 1.389, Type:Normal
+Date: 2024-05-01 09:55:16.268868 ,Interval: 1.862, Type:Normal
+Date: 2024-05-01 09:55:24.860539 ,Interval: 4.013, Type:Normal
+Date: 2024-05-01 09:55:28.644364 ,Interval: 3.516, Type:Normal
+Date: 2024-05-01 09:55:31.690671 ,Interval: 2.877, Type:Normal
+Date: 2024-05-01 09:55:33.921950 ,Interval: 2.163, Type:Normal
+Date: 2024-05-01 09:55:39.092776 ,Interval: 4.231, Type:Normal
+Date: 2024-05-01 09:55:44.339362 ,Interval: 5.163, Type:Normal
